@@ -34,7 +34,7 @@ muss eine XML-Liste der Pakete ausgeben.
 1. In BankingManager das Update herunterladen, aber **nicht** "Update installieren"
    klicken.
 2. BankingManager **überall schließen** (auch in anderen Sitzungen).
-3. Die Verknüpfung **BankingManager aktualisieren** starten und bestätigen.
+3. Die Verknüpfung **BankingManager aktualisieren** (auf Desktop) starten und bestätigen.
 4. Ein bis zwei Minuten warten. Ein Fenster meldet das Ergebnis, etwa
    `OK: BankingManager ist jetzt Version 1.15.1.1.`
 
